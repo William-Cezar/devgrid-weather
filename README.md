@@ -1,8 +1,6 @@
 # Open Weather API
 
-This API collects weather data from the OpenWeatherMap API and provides endpoints for retrieving that data. The current API is hosted for testing purposes at the following domain:
-
-**API Base URL**: https://weather-challenge.ctdevelopers.solutions
+This API collects weather data from the OpenWeatherMap API and provides endpoints for retrieving that data. The current API is hosted for testing purposes.
 
 ## API Documentation
 
