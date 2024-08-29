@@ -1,0 +1,11 @@
+django==4.2.1
+django_rest_framework==0.1.0
+python-dotenv==1.0.0
+drf-yasg==1.21.7
+grequests==0.7.0
+more_itertools==10.1.0
+gunicorn==21.2.0
+mock==5.1.0
+coverage==7.3.1
+whitenoise==6.5.0
+django-cors-headers
