@@ -70,12 +70,12 @@ curl -L --request GET \
 ## Testing
 
 ### Setting Up the Test Environment:
-Navigate to the root directory of the Django project.
-Activate your virtual environment.
-Install the required testing packages:
-pip install -r requirements.txt
-Running the Tests:
-To execute all tests:
+* Navigate to the root directory of the Django project.
+* Activate your virtual environment.
+* Install the required testing packages:
+* pip install -r requirements.txt
+* Running the Tests:
+
 ```
 python3 manage.py test open_weather_api --settings=open_weather_project.test_settings
 ```
