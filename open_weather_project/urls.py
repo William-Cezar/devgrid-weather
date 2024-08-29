@@ -30,7 +30,8 @@ schema_view = get_schema_view(
             ## Introduction to the API
             This service provides the following features:
 
-            - ** Test
+            - Collect weather data from multiple cities.
+            - Check the progress of the weather data collection.
         """,
     ),
     public=True,
